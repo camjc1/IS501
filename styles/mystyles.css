@@ -61,7 +61,7 @@ li {
     border: 3px solid blue;
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-auto-rows: 50vh 50vh;
+    grid-auto-rows: 40vh 40vh;
   }
   
   .tbl_item {
